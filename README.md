@@ -1,1 +1,1 @@
-# repo-cool remote
+# repo-cool
